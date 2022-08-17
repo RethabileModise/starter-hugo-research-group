@@ -1,4 +1,4 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [CBIB-CAIR](https://https://cbib-cair.netlify.app/)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
