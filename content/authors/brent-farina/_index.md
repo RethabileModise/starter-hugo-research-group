@@ -1,6 +1,6 @@
 ---
 title: "Brent Farina "
-role: "STUDENT "
+role: Student
 avatar_filename: 46-462959_unknown-person-icon-png-download-single-people-logo.png
 bio: ""
 social: []
