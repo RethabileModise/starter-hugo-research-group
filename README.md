@@ -1,4 +1,4 @@
-# [CBIB-CAIR](https://https://cbib-cair.netlify.app/)
+# [CBIB-CAIR](https://cbib-cair.netlify.app/)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
